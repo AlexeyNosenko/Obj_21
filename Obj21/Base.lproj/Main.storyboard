@@ -13,7 +13,7 @@
         <scene sceneID="z2T-fc-ulQ">
             <objects>
                 <viewController id="HXJ-M5-pH4" sceneMemberID="viewController">
-                    <imageView key="view" userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ICC_highlightedStar_2x" id="3yA-1r-kDr">
+                    <imageView key="view" userInteractionEnabled="NO" contentMode="TopLeft" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ICC_highlightedStar_2x" id="3yA-1r-kDr">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                     </imageView>
